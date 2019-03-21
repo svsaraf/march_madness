@@ -1,6 +1,6 @@
 ## March Madness Calculator
 
-This script generates a possible final four for the Men's and Women's March Madness bracket given the win probabilities from 538. Could be modified to do Monte Carlo Simulations, but this is March Madness...so it runs each possiblity only once. 
+This script generates a possible final four for the Men's and Women's March Madness bracket given the win probabilities from 538. Could be modified to do Monte Carlo Simulations, but this is March Madness...so it runs each possibility only once. 
 
 #### Usage for 2019 (from either Unix shell or Mac OS Terminal): 
 
